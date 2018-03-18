@@ -1,0 +1,300 @@
+querynum:1
+query: acquisit alleg antitrust bidrig buyout case commerc commiss compani complaint depart disput entiti exchang fair feder govern illeg immun industri insid interst investig japanes justic merger monopoli object option part pend pricefix relev restraint result review routin secur suit takeov trade violat 
+wsj870119-0039 0.796
+wsj910328-0078 0.7489
+wsj910104-0129 0.7408
+wsj870928-0092 0.7394
+wsj900913-0001 0.7389
+wsj871002-0065 0.7347
+wsj880322-0049 0.7343
+wsj880804-0044 0.733
+wsj900925-0060 0.7314
+wsj910108-0052 0.7236
+querynum:2
+query: acquisit antitakov arb arbitrag asset bid buyout compani foreign friendli hostil knight leverag merger name nation offer pill poison purchas recapit relev restructur sale suitor takeov target tender type white 
+wsj870102-0018 0.7896
+wsj900409-0053 0.789
+wsj881021-0031 0.7789
+wsj870102-0007 0.7733
+wsj920102-0079 0.7679
+wsj910102-0091 0.7676
+wsj870918-0094 0.7648
+wsj870921-0009 0.7644
+wsj881031-0002 0.7635
+wsj880923-0099 0.7634
+querynum:3
+query: activ compani cooper japanes joint jointli manag name own partner produc tie togeth ventur work 
+wsj880610-0157 0.9014
+wsj911030-0089 0.8955
+wsj870717-0055 0.8954
+wsj870407-0050 0.8873
+wsj890918-0167 0.881
+wsj880712-0058 0.8785
+wsj880516-0098 0.8775
+wsj920123-0008 0.8744
+wsj870303-0060 0.861
+wsj910404-0071 0.858
+querynum:4
+query: accord agreement andor bank club commerci countri countriesgovern cover creditor current debt debtor develop easier exist foreign grant interest interestr lenient loan longterm lower margin mediumterm monetari negoti offici packag pact pari period propos rate reach repay request reschedul restructur set settlement talk term time trade 
+wsj870302-0106 0.801
+wsj870316-0083 0.8002
+wsj871125-0101 0.799
+wsj870928-0130 0.7978
+wsj870702-0112 0.7938
+wsj870223-0003 0.7897
+wsj870224-0017 0.787
+wsj861201-0034 0.7823
+wsj880512-0074 0.7797
+wsj900827-0003 0.7769
+querynum:5
+query: action andor antidump charg commerc commiss common commun current depart dump duti european identifi intern investig japan made market measur penalti predatori price product protect proven punit relev rule sanction suspect take tariff thirdcountri trade unfair 
+wsj880401-0043 0.7241
+wsj910909-0106 0.7179
+wsj880804-0044 0.7137
+wsj920103-0070 0.7113
+wsj920206-0001 0.7084
+wsj900709-0075 0.7076
+wsj891017-0169 0.7065
+wsj891002-0067 0.6963
+wsj900830-0085 0.6945
+wsj870102-0036 0.6865
+querynum:6
+query: agreement aid bank bond burden cash chang club countri creditor debt debtor deposit develop equiti etc exit facil forgiv fund govern grant interest intern ldc loan monetari moneymarket pari rate reduct refinanc relief reschedul swap tradecredit type western world 
+wsj880926-0120 0.7768
+wsj890804-0131 0.7647
+wsj880922-0040 0.7631
+wsj881018-0078 0.7625
+wsj870323-0089 0.7604
+wsj890911-0125 0.7591
+wsj900628-0167 0.7586
+wsj880621-0079 0.7565
+wsj870406-0115 0.7564
+wsj910920-0026 0.7555
+querynum:7
+query: action affair auction budget cite cost cut decreas defens deficit describ directli domest elimin encourag entitl exchang expenditur feder financ foreign govern increas indirectli invest mention modifi program propos quo quota rais rate recommend reduc reduct reform relev revenu shortfal spend status subsidi tax 
+wsj880906-0001 0.8237
+wsj880519-0007 0.8179
+wsj870105-0088 0.8118
+wsj871204-0041 0.8008
+wsj870604-0076 0.7937
+wsj870217-0078 0.7857
+wsj890915-0033 0.7843
+wsj881117-0002 0.7834
+wsj871105-0064 0.7799
+wsj911206-0079 0.7785
+querynum:8
+query: balanc billion capita come countri currenc drop econom etc exchang expans fall forecast futur gross growth includ incom index indic inflat market nation payment product project quantit rate recoveri relev rise shift sign slowdown stagflat state stock unit valu year 
+wsj910506-0170 0.8209
+wsj910219-0013 0.8052
+wsj900803-0156 0.8009
+wsj910805-0164 0.7952
+wsj880104-0048 0.784
+wsj911223-0001 0.7819
+wsj871109-0004 0.7814
+wsj910318-0195 0.7755
+wsj910702-0066 0.7734
+wsj910828-0063 0.77
+querynum:9
+query: actual antimissil appropri arena budget comment congress congression congressman decreas defens deploy deterr develop explicit fund held hous howev increas indic individu initi member membership pay posit possibl potenti provid record regard relev report repres research sdi senat senatori star strateg suggest support system time track true vote war year 
+wsj910130-0007 0.7996
+wsj881110-0111 0.7684
+wsj920129-0003 0.7615
+wsj871204-0041 0.759
+wsj920130-0081 0.7512
+wsj900806-0065 0.7501
+wsj880913-0066 0.745
+wsj890726-0028 0.7396
+wsj910710-0031 0.7349
+wsj870918-0037 0.7344
+querynum:10
+query: acquir aid arc azt burroughswellcom complex defici drug genentech immun includ mention pharmaceut potenti refer relat relev specif studi syndrom test tpa treatment trial 
+wsj880120-0102 0.7943
+wsj870722-0113 0.793
+wsj880225-0091 0.7923
+wsj870413-0018 0.7917
+wsj870325-0013 0.7905
+wsj870209-0053 0.7863
+wsj900711-0100 0.7771
+wsj870914-0085 0.7759
+wsj900801-0097 0.7672
+wsj880615-0067 0.7661
+querynum:11
+query: agenc arian astronaut canaver cape citi columbia cosmonaut countri dicsoveri european explor freedom goal launch magellan mir mission nasa organ plan plane planetari program project relev satellit shuttl space sponsor star station vehicl 
+wsj910205-0001 0.7386
+wsj920130-0129 0.7336
+wsj870930-0084 0.7332
+wsj880930-0111 0.719
+wsj910621-0066 0.7082
+wsj880519-0007 0.7059
+wsj870319-0110 0.7023
+wsj861218-0136 0.701
+wsj880901-0077 0.6926
+wsj900709-0106 0.6897
+querynum:12
+query: bodi cleanup dump eri inland lake landfil limeston main mill ocean paper pollut relev risk sourc spill supertank suppli water waterway 
+wsj890918-0135 0.7683
+wsj911107-0069 0.7454
+wsj881101-0126 0.7313
+wsj870825-0125 0.7238
+wsj870722-0141 0.7123
+wsj910604-0111 0.7094
+wsj910826-0134 0.7074
+wsj911122-0099 0.7063
+wsj900404-0003 0.7037
+wsj910731-0041 0.702
+querynum:13
+query: advanc build compani consider context contractor dozen famili fighter fsx heavi industri ltd member militari mitsubishi mitusbishi plane prime refer relev state unit 
+wsj900703-0043 0.7632
+wsj911119-0047 0.7372
+wsj881111-0008 0.7366
+wsj871201-0097 0.7357
+wsj880412-0088 0.7227
+wsj900605-0085 0.708
+wsj911108-0098 0.7072
+wsj910529-0100 0.7054
+wsj920319-0086 0.7039
+wsj900416-0002 0.7025
+querynum:14
+query: ailment approv brand cite clearanc compani current drug final gener grant identifi market name nation preliminari receiv relev specif treat treatment 
+wsj870430-0097 0.8138
+wsj870602-0011 0.7977
+wsj910219-0013 0.7814
+wsj920113-0060 0.7713
+wsj880510-0094 0.7704
+wsj870928-0051 0.7693
+wsj870325-0038 0.7604
+wsj870102-0007 0.7595
+wsj890920-0004 0.7553
+wsj880401-0071 0.7551
+querynum:15
+query: aim arrang barrier bilater bolster categori comment commerc commiss congression context creation current deal debat deficit develop directli discuss dump editori exist fair formal gatt gener good howev industri inform intern invis issu japan legisl liber link mechan ministri miti multifib multilater negoti nondiscrimin ongo paper parti pend posit practic prevent propos provid reduc relev round rule sanction similarli specif subsidi substant talk tariff topic trade uruguay war 
+wsj880804-0044 0.6853
+wsj880401-0043 0.6845
+wsj881003-0173 0.6817
+wsj871204-0041 0.6702
+wsj880427-0175 0.6563
+wsj900406-0046 0.6511
+wsj870408-0129 0.6403
+wsj920113-0060 0.6395
+wsj910524-0112 0.6335
+wsj890906-0134 0.6312
+querynum:16
+query: abroad actual agricultur agrochem carri categori chemic compani cut demand describ fertil forecast fungicid futur herbicid includ inform insecticid market pesticid predict price reduct relev report sale share statist stimul strategi volum 
+wsj900507-0015 0.7534
+wsj871204-0038 0.7377
+wsj911114-0035 0.7307
+wsj870723-0038 0.7295
+wsj880411-0050 0.7276
+wsj870911-0103 0.7261
+wsj881107-0094 0.7244
+wsj910219-0013 0.724
+wsj920204-0145 0.7226
+wsj920113-0152 0.7224
+querynum:17
+query: abroad academi act agricultur agrochem air alachlor associ attempt ban benzen bureau chemic clean contamin control countri cover crime curb dinoseb document edb environment epa feder fertil foodstuff fungiacid herbicid hexachlorid insecticid lack lasso market measur metolachlor nation nitrat osha pesticid produc regul relev report result scienc sulphat superfund test thallium treat water wildlif world 
+wsj900525-0035 0.6618
+wsj880804-0044 0.6538
+wsj920103-0070 0.6477
+wsj900507-0015 0.6406
+wsj880401-0043 0.634
+wsj890807-0031 0.6272
+wsj871204-0041 0.6236
+wsj910822-0021 0.6228
+wsj870102-0007 0.6227
+wsj900409-0053 0.6212
+querynum:18
+query: averag bear bond bull climb close correct downward edg fund japanes market nikkei perform plummet price record relev rise share slip solid stock surg tokkin tokyo trend turbul upward volatil 
+wsj870330-0066 0.8049
+wsj900409-0053 0.7696
+wsj870720-0051 0.7687
+wsj870814-0124 0.7681
+wsj900823-0096 0.7658
+wsj920102-0054 0.7649
+wsj900807-0022 0.7602
+wsj870910-0161 0.759
+wsj880627-0010 0.756
+wsj900410-0049 0.7556
+querynum:19
+query: administr author bash benefit commerc commiss compet control corpor countervail depart design discuss duti enact etc execut fair feder field foreign gener good import increas industri intern issu ita japan law level limit measur ministri miti number offic play polit practic produc protect protection protectionist quantifi quota regul relev repres retali retaliatori rule set specif tariff trade unfair unit ustr year 
+wsj880804-0044 0.7414
+wsj880401-0043 0.7319
+wsj870102-0007 0.6998
+wsj891005-0026 0.6934
+wsj910715-0053 0.6912
+wsj880104-0048 0.6889
+wsj870401-0125 0.6868
+wsj900409-0035 0.6824
+wsj910506-0170 0.6812
+wsj871204-0041 0.6777
+querynum:20
+query: action allegedli claim complaint current damag defend disput enjoin file gener industri infring injunct issu lawsuit lose patent patentinfring pend perman plaintiff preliminari product reinstat settl specif sue suit technolog win 
+wsj910426-0081 0.8412
+wsj911122-0095 0.8008
+wsj920108-0174 0.7956
+wsj920128-0070 0.7805
+wsj870824-0060 0.7783
+wsj911107-0085 0.7716
+wsj920305-0158 0.7711
+wsj900824-0126 0.7686
+wsj900507-0150 0.7678
+wsj911211-0087 0.7634
+querynum:21
+query: abil achiev advanc applic breakthrough car ceram cite commerci currentdens develop discoveri econom electr entiti fabric first goal higher identifi level levit limit magnet materi need overcom practic relev research shape specif step supercomput superconduct superconductor temperatur thinfilm tini train 
+wsj870320-0139 0.7391
+wsj870511-0151 0.7306
+wsj871203-0070 0.7251
+wsj870313-0144 0.7082
+wsj900926-0138 0.6842
+wsj910712-0143 0.6814
+wsj880105-0097 0.6761
+wsj870709-0111 0.6729
+wsj880118-0019 0.6625
+wsj900625-0095 0.6625
+querynum:22
+query: abroad burma cartel coca cocain colombia countermeasur counternarcot crack crop curb drug entri golden govern hashish hemp heroin illeg launder lord marijuana measur money opium peru poppi produc product prosecut racket refineri relat relev report smuggl thailand traffic traffick triangl turkey 
+wsj871204-0041 0.6473
+wsj900906-0013 0.6111
+wsj890815-0108 0.6091
+wsj910719-0105 0.5982
+wsj911129-0084 0.5922
+wsj870611-0085 0.5917
+wsj880506-0150 0.5908
+wsj880808-0057 0.5888
+wsj891026-0083 0.5862
+wsj920227-0081 0.583
+querynum:23
+query: accid accident adjud aftereffect agent agricultur agrochem alleg bhopal case caus chemic claim counterclaim court damag decid disast exposur fertil file fund fungicid herbicid insecticid intent interim judgment legal liabil misus orang paper payment pend pesticid relev remedi repercuss report settlement suit victim worldwid 
+wsj900924-0168 0.6577
+wsj910710-0077 0.6535
+wsj910911-0065 0.6484
+wsj900402-0033 0.6481
+wsj920211-0112 0.6477
+wsj920206-0005 0.6399
+wsj910603-0064 0.6381
+wsj920312-0015 0.6376
+wsj910628-0064 0.6371
+wsj900509-0035 0.6362
+querynum:24
+query: aid breakthrough burn cancer carri compani control describ descript develop doctor drug equip fat hospit includ initi institut leukemia medic miracl nutrit patient procedur promis relev report research result scientist surgeon technolog test treatment 
+wsj871005-0104 0.794
+wsj890915-0058 0.7818
+wsj870914-0085 0.7813
+wsj870414-0088 0.7759
+wsj900514-0084 0.7581
+wsj911030-0172 0.7558
+wsj911021-0167 0.7471
+wsj900417-0078 0.7426
+wsj911202-0032 0.741
+wsj870209-0053 0.7383
+querynum:25
+query: accid aftermath ban campaign cancer chernobyl cite consequ construct contamin countri etc european evacu exposur fallout fear food foodstuff govern health limit measur nuclear propaganda radiat reactor record relev result simul soil suppli test undertaken water 
+wsj870423-0077 0.7293
+wsj920103-0070 0.7074
+wsj870415-0035 0.687
+wsj870423-0081 0.672
+wsj870203-0008 0.6713
+wsj910411-0064 0.6663
+wsj910419-0127 0.6595
+wsj890927-0091 0.6558
+wsj910521-0010 0.6424
+wsj870102-0007 0.6353

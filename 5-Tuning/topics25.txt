@@ -1,0 +1,1440 @@
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 001
+
+<dom> Domain: International Economics
+
+<title> Topic: Antitrust Cases Pending
+
+
+<desc> Description:
+
+Document discusses a pending antitrust case.
+
+
+<narr> Narrative:
+
+To be relevant, a document will discuss a pending antitrust case and
+will identify the alleged violation as well as the government entity
+investigating the case.  Identification of the industry and the
+companies involved is optional.  The antitrust investigation must be a
+result of a complaint, NOT as part of a routine review.
+
+
+<con> Concept(s):
+
+1.  antitrust suit, antitrust objections, antitrust investigation,
+antitrust dispute
+
+2.  monopoly, bid-rigging, illegal restraint of trade, insider
+trading, price-fixing
+
+3.  acquisition, merger, takeover, buyout
+
+4.  Federal Trade Commission (FTC), Interstate Commerce Commission
+(ICC), Justice Department, U.S. Securities and Exchange Commission
+(SEC), Japanese Fair Trade Commission
+
+5.  NOT antitrust immunity
+   
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+Antitrust - Laws to protect trade and commerce from unlawful
+restraints and monopolies or unfair business practices.
+
+Acquisition - The taking over by one company of a controlling interest
+in another, also called a takeover.  The action may be friendly or
+unfriendly.
+
+Merger - The acquisition by one corporation of the stock of another.
+The acquiring corporation then retires the other's stock and dissolves
+that corporation.  Therefore, only one corporation retains its
+identity in a merger.
+
+</top>
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 002
+
+<dom> Domain: International Economics
+
+<title> Topic: Acquisitions
+
+
+<desc> Description:
+
+Document discusses a currently proposed acquisition involving a U.S.
+company and a foreign company.
+
+
+<narr> Narrative:
+
+To be relevant, a document must discuss a currently proposed
+acquisition (which may or may not be identified by type, e.g., merger,
+buyout, leveraged buyout, hostile takeover, friendly acquisition).
+The suitor and target must be identified by name; the nationality of
+one of the companies must be identified as U.S. and the nationality of
+the other company must be identified as NOT U.S.
+
+<con> Concept(s):
+
+1.  acquisition, takeover
+
+2.  suitor, target
+
+3.  merger, buyout, leveraged buyout (LBO)
+
+4.  arb, arbitrage, arbitrager, leverage, offer, bid, tender, purchase
+
+5.  anti-takover, poison pill, white knight, restructure, sale of
+assets, recapitalization
+
+
+<fac> Factor(s):
+
+<nat> Nationality: U.S.
+
+<nat> Nationality: NOT U.S.
+
+<time> Time: Current
+
+</fac>
+
+
+<def> Definition(s):
+
+Acquisition - The taking over by one company of a controlling interest
+in another, also called a takeover.  The action may be friendly or
+unfriendly.  The company initiating the takeover is the suitor.  The
+company which is taken over is the target.
+
+Arbitrage - A form of speculation in which the purchase of an asset in
+one market is accompanied by a simultaneous sale of the same (or a
+similar) asset in a different market, to take advantage of a
+difference in price.  Arbitragers or arbs buy a company's shares at
+today's price expecting them to be bid for tomorrow at a higher price
+in a takeover bid.  When they do this knowing that a bid is coming,
+they are indulging in insider trading.
+
+Hostile Takeover - An acquisition in which the suitor company plans to
+replace management or liquidate assets, etc. of the target company.
+The target company may institute some countermeasure, called a poison
+pill.  An investor or group which tries to assist the target company
+is a white knight.
+
+Leveraged Buyout (LBO) - Takeover of a company using borrowed funds,
+with the target company's assets serving as security for the loans
+taken out by the acquiring firm.  The acquiring firm repays the loans
+out of the cash flow of the acquired company or from the sale of the
+assets of the acquired company.
+
+Merger - The acquisition by one corporation of the stock of another.
+The acquiring corporation then retires the other's stock and dissolves
+that corporation.  Therefore, only one corporation retains its
+identity in a merger.
+
+Tender Offer - An offer to buy shares of a corporation, usually at a
+premium above the shares' market price, for cash, securities, or both,
+often with the objective of taking control of the target company.
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 003
+
+<dom> Domain: International Economics
+
+<title> Topic: Joint Ventures
+
+
+<desc> Description:
+
+Document will announce a new joint venture involving a Japanese
+company.
+
+
+<narr> Narrative:
+
+A relevant document will announce a new joint venture and will
+identify the partners (one of which must be Japanese) by name, as well
+as the name and activity of the new company.
+
+
+<con> Concept(s):
+
+1.  joint venture, tie up
+
+2.  partner, cooperation, joint management, agreement
+
+3.  cooperate, work together, jointly manage, jointly own, jointly
+produce
+
+
+<fac> Factor(s):
+
+<nat> Nationality: Japan
+
+<time> Time: Current
+
+</fac>
+
+
+<def> Definition(s):
+
+Joint Venture - An international business undertaking defined as the
+commitment, for more than a very short duration, of funds, facilities,
+and services by two or more legally separate interests to an
+enterprise for their mutual benefit.
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 004
+
+<dom> Domain: International Finance
+
+<title> Topic: Debt Rescheduling
+
+
+<desc> Description: Document will discuss a current debt rescheduling
+agreement between a developing country and one or more of its
+creditor(s).
+
+
+<narr> Narrative:
+
+A relevant document will discuss a current debt rescheduling agreement
+reached, proposed, or being negotiated between a debtor developing
+country and one or more of its creditors, commercial and/or official.
+It will identify the debtor country and the creditor(s), the repayment
+time period requested or granted, the monetary amount requested or
+covered by the accord, and the interest rate, proposed or set.
+
+
+<con> Concept(s):
+
+1. rescheduling agreement, accord, settlement, pact
+
+2. bank debt, commercial debt, foreign debt, trade debt, medium-term
+debt, long-term debt
+
+3. negotiations, debt talks
+
+4. creditor banks, creditor countries/governments, Paris Club
+
+5. debtor countries, developing countries
+
+6. debt package
+
+7. debt repayments
+
+8. restructuring, rescheduling existing loans
+
+9. lower interest-rate margin, easier terms, more lenient terms
+
+
+<fac> Factor(s):
+
+<nat> Nationality: Developing country
+
+<time> Time: Current
+
+</fac>
+
+
+<def> Definition(s):
+
+Debt Rescheduling - Agreement between creditors and debtor to provide
+debt relief by altering the original payment terms of an existing
+debt.  This is most often accomplished by lengthening the original
+schedule for principal and interest payments, and deferring interest
+payments.  Done most publicly by developing countries and their
+bankers, but often less publicly by other willing creditors and
+debtors, e.g., governments, banks and companies.  Much in vogue in the
+early 1980s, the road to rescheduling for countries in crisis runs as
+follows: when a country borrows so much that its lenders grow nervous,
+the banks start lending for shorter and shorter maturities.
+Eventually the country, though still paying interest on its debt, is
+unable to make payments on the principal.  The country is then forced
+to request a rescheduling, which means that it is able to escape its
+immediate repayment commitments by converting short-term loans into
+longer-term ones.  A country wishing to reschedule its official debt
+tal
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 005
+
+<dom> Domain: International Economics
+
+<title> Topic: Dumping Charges
+
+
+<desc> Description:
+
+The U.S. or the EC charges Japan with dumping a product on any market
+and/or takes action against Japan for proven or suspected dumping.
+
+
+<narr> Narrative:
+
+To be relevant, a document must discuss current charges made by the
+U.S. or the EC against Japan for dumping a product on the U.S., EC, or
+any third-country market, and/or action(s) taken by the U.S. or the EC
+against Japan for proven or suspected dumping.  The product must be
+identified.
+
+
+<con> Concept(s):
+
+1.  dumping
+
+2.  duties, tariffs, anti-dumping measures, punitive trade sanctions,
+protective penalties
+
+3.  below market, unfair, predatory pricing
+
+4.  Commerce Department, International Trade Commission (ITC),
+European Community (EC), Common Market
+
+5.  ruling, charges, investigation
+
+
+<fac> Factor(s):
+
+<nat> Nationality: U.S.
+
+<nat> Nationality: EC
+
+<nat> Nationality: Japan
+
+<time> Time: Current
+
+</fac>
+
+
+<def> Definition(s):
+
+Dumping - A term used in international trade, meaning to sell a
+product in export markets below the selling price for the same product
+in domestic markets.  Rules created by countries to protect themselves
+from this practice are called anti-dumping laws.  Additional tariffs
+that may be imposed on imports that have been dumped are called
+dumping duties.
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 006
+
+<dom> Domain: International Finance
+
+<title> Topic: Third World Debt Relief
+
+
+<desc> Description:
+
+Document will discuss debt relief for a developing country.
+
+
+<narr> Narrative:
+
+A relevant document will discuss debt relief proposed or granted a
+developing country, and will identify the type of relief, e.g., debt
+forgiveness, debt reduction, new loans, refinancing loans, cash aid,
+etc.
+
+
+<con> Concept(s):
+
+1. debt burden
+
+2. debt relief
+
+3. developing country, LDC, debtor country
+
+4. International Monetary Fund (IMF), World Bank, Paris Club, creditor
+bank, creditor country, creditor government
+
+5. debt forgiveness, debt reduction, debt rescheduling, debt for
+equity swap, interest rate change, new loan agreement, refinancing
+loans, western aid, cash aid, trade-credit facility, money-market
+deposit facility, exit bond
+
+
+<fac> Factor(s):
+
+<nat> Nationality: Developing country
+
+</fac>
+
+
+<def> Definition(s):
+
+Debt relief - The easing of a debtor country's burden of servicing its
+external debt.  Relief can be obtained through new financing at
+concessional rates, limitations on debt service levels, outright debt
+reduction, or changing the original terms of loans including
+rescheduling of principal repayments, retiming of interest payments,
+and interest capitalization.
+
+Debt reduction - The voluntary and negotiated reduction of a debtor
+country's burden of servicing its external debt.  Debt reduction can
+be obtained through negotiated changes in the terms and conditions of
+the loan, to include debt rescheduling, retiming of interest payments,
+and interest capitalization.  Debt reduction can also be obtained
+through measures designed to reduce the level of international debt,
+to include debt conversions, debt buybacks, and debt-equity swaps.
+
+Debt buy-back - A secondary market debt relief mechanism whereby the
+debtor buys back its own debt outright at the market's discounted
+prices, thus providing the debtor country immediate debt relief.  Also
+an arrangement under which a group of friendly countries donate cash
+to set up a fund to buy a debtor country's claims.
+
+Debt conversion - A form of debt relief that involves converting a
+country's external debt into domestic debt or equity.  These
+conversion schemes encourage foreign investment, provide a channel for
+the return of flight capital, and reduce the foreign exchange costs of
+servicing the country's external debt.
+
+Debt-equity swap - The exchange of a debt instrument for an equity
+investment.  The most frequently used secondary market debt relief
+scheme whereby a commercial bank sells its debt at a discount to a
+multinational corporation or other private investor who transfers it
+to the debtor country for redemption at near or full face value in
+local currency or government notes.  The investor then uses the
+proceeds to buy equity shares in a local business in the debtor
+country.  Alternatively, a creditor bank can swap a loan in its
+portfolio for an equity instrument of its own, buying additional debt
+on the secondary market, if necessary, to afford the desired
+investment.
+
+Debt forgiveness - A debt relief arrangement that reduces the present
+value of contractual loan obligations of the debtor country.
+Forgiveness schemes often are made mandatory by a creditor country and
+apply to all creditors of the debtor.  Methods include forced
+write-downs or write-offs of principal, cancellation of obligations to
+pay interest, or proposals for an international facility designed to
+purchase LDC debt at a mandated discount so that the savings can be
+passed on to the debtor country.
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 007
+
+<dom> Domain: U.S. Economics
+
+<title> Topic: U.S. Budget Deficit
+
+
+<desc> Description:
+
+Document will mention a proposal to decrease the U.S. budget deficit.
+
+
+<narr> Narrative:
+
+A relevant document will cite at least one way to reduce the U.S.
+budget deficit, directly (e.g., raise taxes, cut costs) or indirectly
+(e.g., modifying the exchange rate, encouraging domestic investment).
+A document which only describes the status quo, but does not cite or
+recommend a course of action, is NOT relevant.
+
+
+<con> Concept(s):
+
+1.  U.S. budget deficit, federal budget shortfall
+
+2.  foreign affairs budget, defense budget, entitlements
+
+3.  increased revenues, tax increase, tax reform, auction quota
+
+4.  reduction in expenditures, spending cuts, cutting domestic
+programs, eliminating government subsidies
+
+5.  NOT financing the U.S. budget deficit
+
+
+<fac> Factor(s):
+
+<nat> Nationality: U.S.
+
+</fac>
+
+
+<def> Definition(s):
+
+Deficit - An excess of expenditures over budget.
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 008
+
+<dom> Domain: International Economics
+
+<title> Topic: Economic Projections
+
+
+<desc> Description:
+
+Document will contain quantitative projections of the future value of
+some economic indicator for countries other than the U.S.
+
+
+<narr> Narrative:
+
+To be relevant, a document must include a projection of the value of
+an economic indicator (e.g., gross national product (GNP), stock
+market, rate of inflation, balance of payments, currency exchange
+rate, stock market value, per capita income, etc.) for the coming
+year, for a country other than the United States.
+
+
+<con> Concept(s):
+
+1. inflation, stagflation, indicators, index
+
+2. signs, projection, forecast, future
+
+3. rise, shift, fall, growth, drop, expansion, slowdown, recovery
+
+4. %, billions
+
+5. Not U.S.
+
+
+<fac> Factor(s):
+ 
+<nat> Nationality: Not U.S.
+
+<time> Time: Future
+
+</fac>
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 009 
+
+<dom> Domain: U.S. Politics 
+
+<title> Topic: U.S. Congressional Positions on the SDI
+
+
+<desc> Description:
+
+Document will identify position(s) held by members of the U.S. Congress on 
+paying for the Strategic Defense Initiative (SDI, also known as "star wars").
+
+
+<narr> Narrative:
+
+A relevant document will identify the position(s) taken by individual 
+members of Congress on providing funds for development and potential 
+deployment of the "star wars" anti-missile defense system.  Reported 
+senatorial or congressional comments on the SDI outside the explicit budget 
+arena which are suggestive of how they might vote, or have voted, are 
+possibly useful in tracking voting records over the years.  However, actual 
+votes on funding the SDI are to be regarded as the best indicator of a 
+member's true position. Changes of vote, support of increased or decreased 
+appropriations for SDI research, as well as changes of congressional 
+membership over time, are also relevant.
+
+
+<con> Concept(s):
+
+1. Strategic Defense Initiative, SDI, star wars
+
+2. U.S. Congress, Senate, Senator, House of Representatives, Congressman
+
+3. defense budget, SDI budget
+
+4. deterrence, anti-missile system
+
+
+<fac> Factor(s):
+
+<nat> Nationality: U.S.
+
+</nat>
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 010
+
+<dom> Domain: Science and Technology
+
+<title> Topic: AIDS treatments
+
+
+<desc> Description:
+
+Document will mention a specific AIDS or ARC treatment.
+
+
+<narr> Narrative:
+
+To be relevant, a document must include a reference to at least one
+specific potential Acquired Immune Deficiency Syndrome (AIDS) or AIDS
+Related Complex treatment.
+
+
+<con> Concept(s):
+
+1. Acquired Immune Deficiency Syndrome (AIDS), AIDS Related Complex
+(ARC)
+
+2. treatment, drug, pharmaceutical
+
+3. test, trials, study
+
+4. AZT, TPA
+
+5. Genentech, Burroughs-Wellcome
+
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+ARC - AIDS Related Complex.  A set of symptoms similar to AIDS.
+
+AZT - Azidothymidine, a drug for the treatment of Acquired Immune
+Deficiency Syndrome, its related pneumonia, and for severe AIDS
+Related Complex.
+
+TPA - Tissue Plasminogen Activator - a blood clot-dissolving drug.
+
+treatment - any drug or procedure used to reduce the debilitating
+effects of AIDS or ARC.
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 011
+
+<dom> Domain: Science and Technology
+
+<title> Topic: Space Program
+
+
+<desc> Description:
+
+Document discusses the goals or plans of the space program or a space
+project of any country or organization.
+
+
+<narr> Narrative:
+
+To be relevant, a document must discuss the goals or plans of a space
+program (e.g. the Space Station Freedom) or space project (e.g.
+Shuttle mission 29-A) and identify the organization sponsoring the
+program.
+
+
+<con> Concept(s):
+
+1. Shuttle, Space Plane, space station
+
+2. Magellan, planetary explorer, satellites
+
+3. vehicle launch
+
+4. NASA, Ariane, European Space Agency (ESA)
+
+5. Astronaut, Cosmonaut
+
+6. Explorer, Dicsovery, Columbia, Mir
+
+7. Cape Canaveral, Star City
+
+8. space
+
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+Space program - coherent set of initiatives to exploit outer space
+(e.g., the National Aeronautic and Space Agency (NASA) has a manned
+space program).
+
+Space project - a specific mission to exploit outer space (e.g., a
+specific launch of the Space Shuttle).
+
+</top>
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 012
+
+<dom> Domain: Environment
+
+<title> Topic: Water Pollution
+
+
+<desc> Description:
+
+Document is about the pollution of a body of water.
+
+
+<narr> Narrative:
+
+To be relevant, a document will discuss a body of water being polluted
+or at risk of being polluted and the source of pollution.  The body of
+water must be identified (e.g. Lake Erie, or the water supply of
+Limestone, Maine).
+
+
+<con> Concept(s):
+
+1. spill, cleanup, ocean dumping, pollution
+
+2. paper mill, supertanker, landfill
+
+3. inland waterways, lake, ocean
+
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 013
+
+<dom> Domain: Science and Technology
+
+<title> Topic: Mitsubishi Heavy Industries Ltd.
+
+
+<desc> Description:
+
+Document refers to Mitusbishi Heavy Industries Ltd.
+
+
+<narr> Narrative:
+
+To be relevant, a document must refer to Mitsubishi Heavy Industries
+Ltd.. (Mitsubishi Heavy Industries was under consideration to be the
+prime contractor to build the FSX advanced fighter plane for the
+United States military and is a member of a family of a dozen
+Mitsubishi companies.) A document which refers to one of the other
+Mitsubishi companies is not relevant. A document which refers to
+Mitsubishi Heavy Industries Ltd. outside of the context of the FSX is
+relevant.
+
+
+<con> Concept(s):
+
+1. Mitsubishi Heavy Industries Ltd.
+
+2. FSX
+
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+FSX - Fighter Support Experimental a multi-billion dollar effort to
+develop a build a high technology multiple mission U.S. fighter plane
+for the early twenty first century.
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 014
+
+<dom> Domain: Science and Technology
+
+<title> Topic: Drug Approval
+
+
+<desc> Description:
+
+Document cites current final national approval granted to a company to
+market a drug for the treatment of a specific ailment.
+
+
+<narr> Narrative:
+
+To be relevant, a document will cite the current final national
+approval granted to a company to market a drug to treat a specific
+ailment.  The generic name of the drug or the name the drug will be
+marketed under (the brand name), the ailment, and the name of the
+company which received approval, must be identified.
+
+
+<con> Concept(s):
+
+1.  drug
+
+2.  approve, approval
+
+3.  market clearance
+
+4.  NOT preliminary approval
+
+
+<fac> Factor(s):
+
+<time> Time: Current
+
+</fac>
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 015
+
+<dom> Domain: International Relations   
+
+<title> Topic: International Trade Liberalization Talks
+
+
+<desc> Description:
+
+Document will identify developments in international trade negotiations 
+aimed at bolstering international commerce through reducing barriers to 
+trade, or preventing the creation of such barriers.
+
+
+<narr> Narrative:
+
+A relevant document must provide substantive information on international 
+trade liberalization talks, such as the specific categories of goods or 
+trade practices at issue in the talks, proposed changes to current rules or 
+practices, and the parties to the talks.  The negotiations may be bilateral, 
+multilateral, or within the context of such existing mechanisms as the GATT.
+However, such developments as U.S. Congressional debates or legislative 
+proposals, unless directly linked to international discussions or formal 
+negotiations, are NOT relevant. Similarly, editorial comment or position 
+papers on the topic of international trade, or the U.S. trade deficit, are 
+NOT relevant, unless they deal with ongoing or pending talks. 
+
+
+<con> Concept(s):
+
+1.  General Agreement on Tariffs and Trade, GATT
+
+2.  Uruguay Round (of trade liberalization talks)
+
+3.  Multi-fiber Arrangement
+
+4.  EC Commission
+
+5.  Japan's Ministry of International Trade and Industry, MITI
+
+6.  dumping, subsidies, sanctions, invisible barriers, tariffs, trade war,
+non-discrimination, fair trade
+
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 016
+
+<dom> Domain: U.S. Economics
+
+<title> Topic: Marketing of Agrochemicals
+
+
+<desc> Description:
+
+Document will describe marketing strategies carried out by U.S.
+companies for their agricultural chemicals, report predictions for
+market share of such chemicals, or report market statistics for the
+chemicals.
+
+
+<narr> Narrative:
+
+To be relevant, a document will report information about sales or
+marketing of agricultural chemicals by U.S. companies either in the
+U.S. or abroad.  The document must include information in one of three
+categories, marketing strategies such as price reductions, forecasts
+of future market share, or report actual sales of the chemicals.
+
+
+<con> Concept(s):
+
+1.  pesticide, herbicide, fungicide, insecticide, fertilizer
+
+2.  predicted sales, market share, stimulate demand, price cut, volume
+of sales
+
+
+<fac> Factor(s):
+
+<nat> Nationality: U.S.
+
+</fac>
+
+
+<def> Definition(s):
+
+</top>
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 017
+
+<dom> Domain: Science and Technology
+
+<title> Topic: Measures to Control Agrochemicals
+
+
+<desc> Description:
+
+Document will announce measures to ban, regulate, or curb use of
+agricultural chemicals in the U.S. or use of chemicals abroad on
+produce for the U.S. market.
+
+
+<narr> Narrative:
+
+To be relevant, a document will report measures taken to test and ban
+chemicals, or to test and ban from the U.S. market, produce treated
+with chemicals.  Documents will cover both reporting on regulation of
+chemicals in the U.S. and lack of regulation of chemicals in third
+world countries which results in attempts to ban from the U.S. market,
+foodstuffs contaminated with chemicals from the U.S. market.
+
+
+<con> Concept(s):
+
+1.  pesticide, herbicide, fungiacide, insecticide, fertilizer
+
+2.  Lasso, dinoseb, thallium sulphate, EDB, alachlor, metolachlor,
+benzene hexachloride, nitrates
+
+3.  Clean Water Act, Superfund, Clean Air Act
+
+4.  EPA, OSHA, National Academy of Sciences, Environmental Crimes
+Bureau, National Agricultural Chemicals Association, National Wildlife
+Federation
+
+5.  regulate, ban, controls
+
+
+<fac> Factor(s):
+
+<nat> Nationality: U.S.
+
+<nat> Nationality: NOT U.S.
+
+</fac>
+
+
+<def> Definition(s):
+
+</top>
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 018
+
+<dom> Domain: International Economics
+
+<title> Topic: Japanese Stock Market Trends
+
+
+<desc> Description:
+
+Document will identify trends in the Japanese stock market.
+
+
+<narr> Narrative:
+
+To be relevant, a document will identify trends in the Japanese
+(Nikkei, Tokyo) stock market.
+
+
+<con> Concept(s):
+
+1. Nikkei
+
+2. upward trend, bull trend, downward trend
+
+3. plummet, slip, climb, edge up, rise, surge
+
+4. turbulence, volatility, solid performance, bull market, bear
+market, record close
+
+5. correction
+
+6. stocks, bonds, tokkin funds
+
+7. stock average, Nikkei average, share prices
+
+
+<fac> Factor(s):
+
+<nat> Nationality: Japan
+
+</fac>
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number:  019
+
+<dom> Domain:  U.S. Politics
+
+<title> Topic:  U.S. Protectionist Measures
+
+
+<desc> Description:
+
+Document will identify a trade protection measure designed to benefit an
+identified U.S. corporation or industry.
+
+
+<narr> Narrative:
+
+To be relevant, document will identify a proposed or enacted U.S. federal 
+law, regulation, or executive action designed to limit or control imports 
+into the U.S. of foreign produced goods which compete with specific U.S. 
+corporations or industries.  The measures taken or to be taken must be 
+specified -- tariffs increased, import quotas set, retaliatory measures 
+authorized, etc. -- and the action must be quantified (e.g. tariffs increased
+100%, imports per year limited to X number of units, etc.).  General 
+political discussions of trade issues are NOT relevant.
+
+
+<con> Concept(s):
+
+1.  protectionism, countervailing duties, fair trade rules, retaliation, 
+unfair trade practices, level playing field, Japan bashing
+
+2.  Commerce Department's International Trade Administration, ITA,
+International Trade Commission, U.S. Trade Representative, Office of the USTR
+
+3.  Japan's Ministry of International Trade and Industry, MITI, EC Commission 
+
+
+
+<fac> Factor(s):
+
+<nat>  Nationality:  U.S.
+
+</fac>
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 020
+
+<dom> Domain: International Economics
+
+<title> Topic: Patent Infringement Lawsuits
+
+
+<desc> Description:
+
+Document will discuss a current patent infringement lawsuit.
+
+
+<narr> Narrative:
+
+A relevant document will discuss a current, settled or pending, patent
+infringement lawsuit.  It will identify the plaintiff, the defendant,
+and a specific (reference to a product or technology that infringes or
+allegedly infringes a patent) or general (reference to an industry)
+complaint.
+
+
+<con> Concept(s):
+
+1.  patent infringement suit, patent-infringement lawsuit, patent
+dispute, patent action, patent case
+
+2.  sue, file a complaint
+
+3.  plaintiff, defendant
+
+4.  issue a preliminary injunction, enjoin
+
+4.  win, lose, settle, issue a permanent injunction, reinstate an
+injunction
+
+5.  damages, damage claim
+
+
+<fac> Factor(s):
+
+<time> Time: Current
+
+</fac>
+
+<def> Definition(s):
+
+</top>
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 021
+
+<dom> Domain: Science and Technology
+
+<title> Topic: Superconductors
+
+
+<desc> Description:
+
+Document cites a breakthrough in superconductivity research and
+identifies at least one commercial application.
+
+
+<narr> Narrative:
+
+To be relevant, a document will cite a specific breakthrough in
+superconductivity research, through development or use of new
+materials, e.g., achieving superconductivity at a relatively higher
+temperature (the goal being an economically practical level),
+overcoming current-density limitation, ability to fabricate
+superconductors in the shapes needed for practical applications; and
+will identify at least one specific commercial application.  The
+entity which achieved the breakthrough must also be identified.
+
+
+<con> Concept(s):
+
+1. discovery, breakthrough, first, development, step, advance
+
+2. new materials, thin-film material, advanced ceramics
+
+3. temperature
+
+4. tiny supercomputers, magnetically levitated trains, electric cars
+
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+Superconductivity - passage of electricity through a material without
+significant loss of energy to resistance
+
+</top>
+
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 022
+
+<dom> Domain: Law and Government
+
+<title> Topic: Counternarcotics
+
+
+<desc> Description:
+
+Document will announce countermeasures to curb the production of
+illegal drugs abroad or to curb the entry of illegal drugs into the
+U.S.
+
+
+<narr> Narrative:
+
+To be relevant, a document will report measures taken by the U.S.
+Government either to curb production of drugs, to curb entry into the
+U.S. of drugs, or to prosecute those involved in drug trafficking,
+laundering of drug money, or racketeering related to drugs.
+
+
+<con> Concept(s):
+
+1.  cocaine, heroin, opium, coca, poppies, hemp, marijuana, crack,
+hashish
+
+2.  smuggling, cartel, traffic, drug lords
+
+3.  producers, refineries, crops
+
+4.  Colombia, Peru, Golden Triangle, Burma, Thailand, Turkey
+
+
+<fac> Factor(s):
+
+<nat> Nationality: U.S.
+
+</fac>
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 023
+
+<dom> Domain: Law and Government
+
+<title> Topic: Legal Repercussions of Agrochemical Use
+
+
+<desc> Description:
+
+Document will announce legal remedies for misuse, accidental or
+intentional, of agrochemicals worldwide.
+
+
+<narr> Narrative:
+
+To be relevant, a document will report on legal cases, either pending
+or decided, which adjudicate damages caused by misuse or accidental
+exposure to agricultural chemicals.
+
+
+<con> Concept(s):
+
+1.  pesticide, herbicide, fungicide, insecticide, fertilizer
+
+2.  Agent Orange, Bhopal
+
+3.  file suit, legal claims, judgment, counterclaims, court papers,
+liability, settlement fund, victims, accident, disaster,
+after-effects, out of court settlement, allegations, interim payment
+
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 024
+
+<dom> Domain: Science and Technology
+
+<title> Topic: New Medical Technology
+
+
+<desc> Description:
+
+Document reports new medical breakthroughs, in treatments, drugs,
+equipment.
+
+
+<narr> Narrative:
+
+To be relevant, a document will describe a new treatment, new
+equipment, or a new drug as well as the company, hospital or
+institution which has carried out the research and developed the new
+treatment.  The description of the new treatment will include both a
+description of the old treatment and the new procedure.
+
+
+<con> Concept(s):
+
+1.  medical miracle, breakthrough, research, new treatment,
+development
+
+2.  initial tests, promising results, controlled tests
+
+3.  patients, doctors, surgeons, nutrition scientists
+
+4.  cancer, AIDS, burns, leukemia, fat
+
+
+<fac> Factor(s):
+
+
+<def> Definition(s):
+
+</top>
+
+
+
+<top>
+
+<head> Tipster Topic Description
+
+<num> Number: 025
+
+<dom> Domain: Science and Technology
+
+<title> Topic: Aftermath of Chernobyl
+
+
+<desc> Description:
+
+Document cites measures taken by European countries to record or
+contain the results of the Chernobyl accident.
+
+
+<narr> Narrative:
+
+To be relevant, a document will cite an action undertaken by a
+European government such as testing food supplies, testing water,
+measuring fallout, simulating nuclear accidents, banning new reactor
+construction, etc.
+
+
+<con> Concept(s):
+
+1.  Chernobyl, nuclear accident, radiation, fallout, contamination
+
+2.  consequences, evacuation, health fears, cancer
+
+3.  banning foodstuffs, propaganda campaign, limiting exposure,
+testing soil, food, water
+
+
+<fac> Factor(s):
+
+<nat> Nationality: any European country
+
+</fac>
+
+
+<def> Definition(s):
+
+</top>
+
+

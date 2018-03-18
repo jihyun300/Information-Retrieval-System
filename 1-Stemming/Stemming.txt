@@ -1,0 +1,15 @@
+<원본텍스트>
+
+ap 880212-0036 research monkey vision research emori univ research fit monkeyswith contact len studi hope yield waysto treat babi born cataract vision disability . studi yerk region primat research centerinvolv pediatr ophthalmologist , primat behavioralpsychologist , neuroscientist dozen monkey . experi , rhesus monkey undergo len -remov surgeryto simul oper perform newborn cataract ,the cloudi ey len plagu older adult . cataract surgeri . case , len isremov , patient fit correct contact lensesor glass . surgeri pose special problem young children ,becaus human born fulli develop vision system ; theey brain learn work togeth . depriv ofnorm visual stimul _ cataract _ special cellsn vision fail matur properli . cataract surgeri perform children earlyag . , doctor poor result stimulatedevelop . correct len , children haveachiev 20-40 vision . experi , research remov healthi len fromon ey monkey . fit contact len made atth center 's lab treatment prompt successfulvi develop . ``hopefulli , relat result humanchild ,'' dr . ronald booth , ophthalmologist behaviorist whohead -year -old studi , interview friday . monkey man , patient good ey badon reli good ey . ``if child 's left devic , 'll ignor (thedamag ey ),'' dr . howard egger , pediatr ophthalmologistfrom york 's columbia univ work yerkesprim research . ``we forc usag cataract ey .'' forc weaker ey , child fit apatch good ey . monkey wear ey patch , soth yerk monkey fit black contact len theirgood ey . case , stimul proper vision develop badey simpl block good , egger . ifworn littl , patch leav patient reli goodey ; long , vision patch ey deterior . doctor unsur long patch black len shouldb worn give ey proper visual stimul , eggerssaid . ``we method , cannotexperi children .'' solv problem , yerk research differentlen routin monkey . wear black contact lensal time , , wear differentinterv . research check studi 's remain 20 monkey twohour make lost len . ``they agreat abil rub contact len ,'' egger . lost lensesar quickli replac . research test monkey ' vision , part , show thempattern video screen reward banana pelletswhen recogn proper pattern _ prove visioni work . len trial , monkey kill research canexamin brain develop optic nervesystem , booth .
+
+
+<Porter Stemming 결과>
+
+research   monkei   vision  research  emori  univers  research   fit  monkeyswith  contact  
+lens    studi    hope   yield   waysto  treat  babi  born   cataract    vision  disabl .  studi    yerk 
+region  primat  research  centerinvolv   pediatr  ophthalmologist ,  primat  behavioralpsychologist , neuroscientist    dozen  monkei .
+
+
+<내가 개선한 Stemming 결과>
+
+research  monkey  vision  research  emori  univ  research  fit  monkeyswith  contact  len  studi  hope  yield  waysto  treat  babi  born  cataract  vision  disability  . studi  yerk  region  primat  research  centerinvolv  pediatr  ophthalmologist  , primat  behavioralpsychologist  , neuroscientist  dozen  monkey  . 
