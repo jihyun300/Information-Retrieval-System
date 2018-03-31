@@ -21,7 +21,7 @@ Information-Retrieval-System
 ****
 ## Overview
 <p align="center">
-   <img src="screenshots/overview.PNG" width="40%"></img>
+   <img src="screenshots/overview.PNG" width="50%"></img>
 </p>
 
 ## 1. Stemming
@@ -88,12 +88,12 @@ ex) \<단어\>\<단어가 출현한 문서 수\>
 ex) \<단어\>\<출현 빈도\>
 
 #### - 단어정보파일
-이는 파일로 저장하는데, 앞에서 소개한 DF와 CF를 이용하여 구축한다. 이 파일은 <2-TFIDF/Word.txt>에 해당한다.
+이는 파일로 저장하는데, 앞에서 소개한 DF와 CF를 이용하여 구축한다. 이 파일은 [Word.txt](/2-TFIDF/Word.txt)에 해당한다.
 
 형식: \<색인어 ID, 색인어, DF, CF, 역색인에서의 해당 색인어 시작 위치\>
 
 #### - 문서정보파일
-문서의 길이는 검색 모델에서 각 문서들을 표현하는 모델을 구하기 위해 필요하다. 이 파일은 <2-TFIDF/Doc.txt>에 해당한다.
+문서의 길이는 검색 모델에서 각 문서들을 표현하는 모델을 구하기 위해 필요하다. 이 파일은 [Doc.txt](2-TFIDF/Doc.txt)에 해당한다.
 
 형식: \<문서 ID, 문서 명, 문서 길이\>
 
@@ -105,10 +105,9 @@ ex) \<단어\>\<출현 빈도\>
 
 > 색인어 정보 레코드 위치
 >   > ```
->   > 해당 역색인 정보가 저장되어 있는 파일 내부 위치= 역색인 정보 시작 위치+ (색인어 시작 위치 * 레코드 byte 수)
+>   > 해당 역색인 정보가 저장되어 있는 파일 내부 위치 = 역색인 정보 시작 위치 + (색인어 시작 위치 * 레코드 byte 수)
+>   > 해당 역색인 정보가 저장되어 있는 파일 내부의 양 = 해당 색인어의 DF * 레코드 byte 수
 >   > ```
->   > 해당 역색인 정보가 저장되어 있는 파일 내부의 양= 해당 색인어의 DF * 레코드 byte 수
-
 이를 토대로, TF, CF, DF, 문서 길이를 이용하여, 검색 엔진에서 사용할 수 있는 색인 파일을 만든다. 형식은 아래 그림과 같다.
 <p align="center">
   <img src="screenshots/index.png" width="30%"></img>
@@ -120,7 +119,40 @@ ex) \<단어\>\<출현 빈도\>
 </p>
 
 ## 3. Implement Retrieval Model
+위에서 구현한 단어정보파일, 문서정보파일, 그리고 역색인 파일을 이용해서 실제 검색 기능을 구현하였다. 쿼리가 발생했을 때, 그 요구에 적합한 정보를 찾는
+작업이 필요하다.
+여기서는 25개의 topic 자료를 주어졌다. 우리는 각 topic에 맞는 기사들을 찾아내면 된다.
+<p align="center">
+  <img src="screenshots/topic.png" width="30%"></img>
+</p>
+topic자료는 위와 같은 형태로 주어지기 때문에, 앞에서처럼 전처리 과정이 필요하다.
+
+입력된 topic의 유용한 부분(title, desc, narr 등)만을 추출하여 불용어를 제거하고, stemming을 진행하여 검색할 수 있는 형태로 변환, 정렬한다.
+<p align="center">
+  Vector Space Model에서 사용되는 similarity 계산식은 아래와 같다.
+  <img src="screenshots/cosine.png" width="30%"></img>
+</p>
+
+변환된 쿼리 벡터와 각 문서 벡터와의 유사도(Cosine similarity)를 사용한  Vector Space Model을 구현하여, 쿼리와 유사도가 높은 기사 top10개를 추출하였다.
+<p align="center">
+  <img src="screenshots/vsResult.png" width="50%"></img>
+</p>
+위 그림은 각 쿼리 번호와, 전처리를 거친 query의 형태, 그리고 구현한 모델로 해당 쿼리와 유사도가 가장 높은 문서 10개를 출력한 모습이다.
 
 ## 4. Evaluate Search Engine
+이제 전반적인 모든 과정은 끝났다. 하지만, 성능을 측정하고 모델을 개선하여 더 나은 퍼포먼스를 이끌어내는 작업을 진행하였다.
+
+여기에서는 사용자 적합성 피드백(Relevance Feedback)이 주어졌다고 가정하였다. 즉, 사람이 직접 해당 topic에 대해 적합한 문서라고 분류한 정보가 주어지면,우리가 구현한 모델에 이 정보를 더하여 오류를 줄여가는 방식이다.
+구체적으로, 적합한 문서를 나타내는 평균 벡터와 적합하지 않은 문서를 나타내는 평균 벡터의 차이를 극대화하는 방식으로 본 프로젝트에서는 
+[Rocchio algorithm](https://en.wikipedia.org/wiki/Rocchio_algorithm)을 사용하였다.
+간단하게 얘기하자면 쿼리의 가중치를 변화시키는 것인데, 만약 해당 쿼리 문서의 단어가 적합하다고 판별된 문서에 나왔다면
+가중치는 더해지고, 적합하지 않다고 판별된 문서에 나왔다면 가중치는 작아질 것이다. 
+이는 초기 검색된 문서를 기준으로 다시 가중치를 주는 것이므로 검색 모델의 성능이 더 나아질 것이라 예상하였다.
+실험 결과, 각 topic마다 관련 기사 200개씩을 검색해내고 topic 25개 모두에 대해 성능을 측정해보았을 때, 성능 변화는
+아래 그래프에서 보이다시피 더 향상된 것을 볼 수 있었고, MAP값 또한 0.206에서 0.348로 증가하였다.
+<p align="center">
+  파란선: Relevance Feedback적용하였을때 ,빨간선: 단순 VSM모델만 사용하였을 때
+  <img src="screenshots/recall-precision.png" width="50%"></img>
+</p>
 
 ## 5. Tuning and Result
