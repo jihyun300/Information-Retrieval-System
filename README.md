@@ -7,7 +7,7 @@ Information-Retrieval-System
 - Language: C++
 - Tool: Visual Studio 2012
 
-###Process
+### Process
   [1. Stemming](#1-stemming)
  
   [2. Build Index Structure](#2-build-index-structure)
@@ -21,7 +21,7 @@ Information-Retrieval-System
 ****
 ## Overview
 <p align="center">
-   <img src="screenshots/overview.png" width="80%"></img>
+   <img src="screenshots/overview.PNG" width="80%"></img>
 </p>
 
 ## 1. Stemming
@@ -48,11 +48,13 @@ Information-Retrieval-System
 추출된 각 기사에 있는 단어들을 어간만 남기고 나머지는 제거하는 것을 Stemming이라고 한다. 
 한 단어가 단수형, 복수형, 과거형, 분사형 등 여러 형태로 나타나기 때문에 stemming을 통해 어간만을 남겨, 한 단어를 한가지 형태로 표현해줘야만 관련 문서를 찾을 때 정확도를 높일 수 있다.
 본 프로젝트에서는 Porter stemmer를 기본적으로 이용하였지만, Porter stemmer의 단점을 개선하여 더 좋은 성능의 stemmer를 구현하였다.
+
 > Stemmer 개선 방법
 >	```
 > porter2 stemmer를 참고하여, porter stemmer에서 처리되지 않았던 부분을 보완하였다.
 > ex) y를 ie/i로 바꾸는 룰, us로 끝나는 단어에 대한 룰, ies->i/ie로 바꾸는 룰 등 추가
 >	```
+
 내가 구현한 stemmer의 결과의 일부는 위 표에서 확인할 수 있다. 첫번째 행은 기사 추출 후 불용어을 제거했을 때의 모습이고, porter's stemmer를 적용하고 나면, 
 두번째 행에서 밑줄 친 단어들처럼 어간만 남겨준다. 마지막 행은 내가 개선하여 적용하였을 때의 결과를 보이고 있다. 이전 방식에서 처리해주지 못했던 부분을 추가적으로
 수정한 것을 확인할 수 있다.
