@@ -21,7 +21,7 @@ Information-Retrieval-System
 ****
 ## Overview
 <p align="center">
-   <img src="screenshots/overview.PNG" width="60%"></img>
+   <img src="screenshots/overview.PNG" width="40%"></img>
 </p>
 
 ## 1. Stemming
@@ -107,22 +107,20 @@ ex) \<단어\>\<출현 빈도\>
 >   > ```
 >   > 해당 역색인 정보가 저장되어 있는 파일 내부 위치= 역색인 정보 시작 위치+ (색인어 시작 위치 * 레코드 byte 수)
 >   > ```
->   > ```
 >   > 해당 역색인 정보가 저장되어 있는 파일 내부의 양= 해당 색인어의 DF * 레코드 byte 수
->   > ```
 
 이를 토대로, TF, CF, DF, 문서 길이를 이용하여, 검색 엔진에서 사용할 수 있는 색인 파일을 만든다. 형식은 아래 그림과 같다.
 <p align="center">
-  <img src="screenshots/index.png" width="50%"></img>
+  <img src="screenshots/index.png" width="30%"></img>
 </p>
 
-형식에서 term weight란 각 문서에 나타난 단어들의 가중치를 의미하는데 이는 아래 TF-IDF계산식에 의해 구한다. 식의 구체적인 의미는 [여기] (https://en.wikipedia.org/wiki/Tf%E2%80%93idf)에서 소개된다.
+형식에서 term weight란 각 문서에 나타난 단어들의 가중치를 의미하는데 이는 아래 TF-IDF계산식에 의해 구한다. 식의 구체적인 의미는 [여기](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)에서 소개된다.
 <p align="center">
-  <img src="screenshots/tfidf.png" width="50%"></img>
+  <img src="screenshots/tfidf.png" width="30%"></img>
 </p>
 
 ## 3. Implement Retrieval Model
 
 ## 4. Evaluate Search Engine
 
-##5. Tuning and Result
+## 5. Tuning and Result
